@@ -1,0 +1,34 @@
+QWidget
+{
+	background-color: rgb( 53, 53, 53);
+	color: rgb( 240, 240, 240);
+}
+
+QLineEdit
+{
+	border: 1px solid rgb( 240, 240, 240);
+	background-color: rgb( 66, 66, 66);
+}
+QPushButton
+{
+	icon-size: 16px;
+	background-color: rgb( 80, 80, 80);
+}
+QLineEdit:hover, QPushButton:hover, QDoubleSpinBox::hover, QMenu:item:selected
+{
+	background-color: rgb( 24, 106, 115);
+}
+
+QListWidget
+{
+	border: 1px solid rgb( 240, 240, 240);
+	background-color: rgb( 66, 66, 66);
+}
+QListWidget:item:selected
+{
+	background-color: rgb( 165, 24, 65);
+}
+QListWidget:item:hover
+{
+	background-color: rgb( 24, 106, 115);
+}

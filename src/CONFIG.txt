@@ -1,0 +1,2 @@
+style=Default
+theme=Sombre

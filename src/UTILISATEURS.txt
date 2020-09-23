@@ -1,0 +1,3 @@
+admin;admin;ADMIN
+bob12;azerty;USER
+julie88;poiuy;USER
